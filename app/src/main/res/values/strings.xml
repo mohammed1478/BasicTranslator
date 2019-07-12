@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Basic Translator</string>
+    <string name="button">Button</string>
+    <string name="i_do_not_speak_french">I do not speak French</string>
+    <string name="what_s_your_name">what\'s your name</string>
+    <string name="how_are_you">How are you</string>
+    <string name="i_need_help">I need Help</string>
+    <string name="how_do_i_get_to_this_place">How do I get to this place</string>
+    <string name="i_speak_english">I Speak English</string>
+    <string name="thank_you">Thank you</string>
+    <string name="the_weather_is_nice">The weather is nice</string>
+    <string name="do_you_speak_english">do you speak english</string>
+    <string name="good_evening">good evening</string>
+    <string name="hello">hello</string>
+    <string name="i_live_in">I live in...</string>
+    <string name="my_name_is">My name is...</string>
+    <string name="please">Please</string>
+    <string name="welcome">Welcome</string>
+    <string name="how_are_you_">how are you</string>
+    <string name="do_you_n_speak_english">do you   speak english</string>
+</resources>
